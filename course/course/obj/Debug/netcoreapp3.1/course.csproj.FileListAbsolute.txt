@@ -1,0 +1,13 @@
+D:\Projetos Dev\TreinamentoCSharp\course\course\bin\Debug\netcoreapp3.1\course.exe
+D:\Projetos Dev\TreinamentoCSharp\course\course\bin\Debug\netcoreapp3.1\course.deps.json
+D:\Projetos Dev\TreinamentoCSharp\course\course\bin\Debug\netcoreapp3.1\course.runtimeconfig.json
+D:\Projetos Dev\TreinamentoCSharp\course\course\bin\Debug\netcoreapp3.1\course.runtimeconfig.dev.json
+D:\Projetos Dev\TreinamentoCSharp\course\course\bin\Debug\netcoreapp3.1\course.dll
+D:\Projetos Dev\TreinamentoCSharp\course\course\bin\Debug\netcoreapp3.1\course.pdb
+D:\Projetos Dev\TreinamentoCSharp\course\course\obj\Debug\netcoreapp3.1\course.csprojAssemblyReference.cache
+D:\Projetos Dev\TreinamentoCSharp\course\course\obj\Debug\netcoreapp3.1\course.AssemblyInfoInputs.cache
+D:\Projetos Dev\TreinamentoCSharp\course\course\obj\Debug\netcoreapp3.1\course.AssemblyInfo.cs
+D:\Projetos Dev\TreinamentoCSharp\course\course\obj\Debug\netcoreapp3.1\course.csproj.CoreCompileInputs.cache
+D:\Projetos Dev\TreinamentoCSharp\course\course\obj\Debug\netcoreapp3.1\course.dll
+D:\Projetos Dev\TreinamentoCSharp\course\course\obj\Debug\netcoreapp3.1\course.pdb
+D:\Projetos Dev\TreinamentoCSharp\course\course\obj\Debug\netcoreapp3.1\course.genruntimeconfig.cache
